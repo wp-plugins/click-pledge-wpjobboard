@@ -1,6 +1,6 @@
 === WordPress-WPJobBoard ===
 Contributors: Click & Pledge
-Tags: WPJobboard,cnp,clickandpledge,payment gateway,payment module,ecommerce,online payments,Click & Pledge, Click&Pledge, Click, Pledge, Salesforce, Payment, Kamran
+Tags: WPJobboard, cnp, clickandpledge, payment gateway, payment module, ecommerce, online payments, Click & Pledge, Click&Pledge, Click, Pledge, Salesforce, Payment, Kamran
 Requires at least: 3.3
 Tested up to: 4.2
 Stable tag: 1.0.0
